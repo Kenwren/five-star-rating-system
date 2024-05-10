@@ -4,8 +4,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is based on the star rating tutorial by Micheal Burrows --> https://dev.to/michaelburrows/create-a-custom-react-star-rating-component-5o6
-
 ## Available Scripts
 
 In the project directory, you can run:
